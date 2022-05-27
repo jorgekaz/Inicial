@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1647809386 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\codeblocks\tp0-inicial menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
+1653691827 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\trabajos\tp0-inicial menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
